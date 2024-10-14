@@ -1,4 +1,4 @@
-
+# Mencetak angka terbesar dari ketiga angka yang diinput
 def terbesar_dari_tiga():
     # Meminta input angka pertama, kedua dan ketiga
     a = int(input("Masukkan angka pertama: "))

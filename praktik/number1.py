@@ -1,4 +1,3 @@
-#Number 1
 x = int(input("How good is performance? ")) #membuat variable x dan input
 if x >= (90) :  #Membuat decision making
     print('Excellent Performance!') #Menampilkan output text
